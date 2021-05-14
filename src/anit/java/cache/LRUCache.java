@@ -12,6 +12,7 @@
  * https://leetcode.com/problems/lru-cache/
  */
 
+import java.util.*;
 class LRUCache {
 
     int cap;
